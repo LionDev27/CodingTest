@@ -6,6 +6,7 @@ using UnityEngine.UI;
 
 namespace CodingTest.Recording
 {
+    [System.Serializable]
     public struct RecordData
     {
         public string name;
